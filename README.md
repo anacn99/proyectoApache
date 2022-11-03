@@ -1,12 +1,12 @@
-# proyectoApache
+# - proyectoApache
 
  **Para la realización de este ejercicio empezaremos por:**
 
-## Buscar una imagen ya hecha de apache en php ##
+## - Buscar una imagen ya hecha de apache en php ##
 
-  Buscamos la imagen de php, para la que elegimos php 7.4-apache, que será la que utilicemos para crear             nuestro contenedor. 
+   Buscamos la imagen de php, para la que elegimos php 7.4-apache, que será la que utilicemos para crear            nuestro contenedor. 
 
-## Utiliza docker-compose para configurar el contenedor  ##
+## - Utiliza docker-compose para configurar el contenedor  ##
 
 ## Mapea el "DocumentRoot" del apache con una carpeta local ##
 
