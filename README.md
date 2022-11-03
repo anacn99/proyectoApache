@@ -12,15 +12,12 @@
 
 ## Realiza un "hola mundo" en html y comprueba que funciona ##
 
-<p align="center">
-  <img  src="hola.png">
-</p>
+Una vez realizados todos los pasos anteriores, procedemos a buscar en el locahost:8080 (el puerto correspondiente que hayamos asignado), y debería aparecernos el echo que le hayamos puesto al html, en este caso "hola".
 
 ![imagenhtml](hola.png)
 
 ## Utiliza la función de phpinfo() para testear que el módulo de php funciona ##
 
-<p align="center">
-  <img  src="php.png">
-</p>
+Al igual
+
 ![imageninfo](php.png)
