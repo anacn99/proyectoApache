@@ -20,7 +20,9 @@
 ## Mapea el "DocumentRoot" del apache con una carpeta local ##
    - En el Docker-compose, en el apartado de volumenes mapeamos el DocumentRoot, que es la ruta a /var/www/html
    - Esta es la ruta  para el servidor de Apache, que almacena los documentos en ese directorio por defecto.
-   - Mapeamos con una carpeta local, hacemos referencia a la carpeta de html, que contiene el index.html e info.php
+   - Mapeamos con una carpeta local//hacemos referencia a la carpeta de html, que contiene el index.html e info.php
+   
+   ![volumen](volumen.png)
 
 ## Realiza un "hola mundo" en html y comprueba que funciona ##
 
