@@ -20,4 +20,7 @@
 
 ## Utiliza la función de phpinfo() para testear que el módulo de php funciona ##
 
+<p align="center">
+  <img  src="php.png">
+</p>
 ![imageninfo](php.png)
