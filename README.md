@@ -12,6 +12,10 @@
 
 ## Realiza un "hola mundo" en html y comprueba que funciona ##
 
+<p align="center">
+  <img width="460" height="300" src="hola.png">
+</p>
+
 ![imagenhtml](hola.png)
 
 ## Utiliza la función de phpinfo() para testear que el módulo de php funciona ##
