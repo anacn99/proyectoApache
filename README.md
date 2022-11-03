@@ -13,7 +13,7 @@
 ## Realiza un "hola mundo" en html y comprueba que funciona ##
 
 <p align="center">
-  <img width="460" height="300" src="hola.png">
+  <img  src="hola.png">
 </p>
 
 ![imagenhtml](hola.png)
