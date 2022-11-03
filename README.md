@@ -12,7 +12,7 @@
 
 ## Realiza un "hola mundo" en html y comprueba que funciona ##
 
-![imagenhtml](https://github.com/anacn99/proyectoApache/edit/main/README.md/assets/hola.png)
+![imagenhtml](https://github.com/anacn99/proyectoApache/edit/main/README.md/hola.png)
 
 ## Utiliza la función de phpinfo() para testear que el módulo de php funciona ##
 
